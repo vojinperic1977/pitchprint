@@ -1,6 +1,6 @@
 {
-    "_id" : "en",
-	"my_colors": "My Colors",
+    "_id" : "rs",
+	"my_colors": "Moje boje",
 	"edit": "EDIT",
 	"select_style" : "Select a Style",
 	"toggle_textbox": "Toggle TextBox mode",
